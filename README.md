@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sm-jony-32
-- 👀 I’m interested in javaScript & React
-- 🌱 I’m currently learning Js
+- 👀 I’m interested in Problem Solving and devloped site using javaScript & React
+- 🌱 I’m currently learning Problem Solving Approach
 - 📫 How to reach me : https://www.facebook.com/smjony.jony.3/
 
 <!---
